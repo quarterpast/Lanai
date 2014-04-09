@@ -36,6 +36,7 @@ hi StorageClass guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=
 hi Todo guifg=#89e71e guibg=#101a03 guisp=#101a03 gui=italic,underline ctermfg=76 ctermbg=58 cterm=underline
 hi Special guifg=#c09bff guibg=#13101a guisp=#13101a gui=NONE ctermfg=141 ctermbg=234 cterm=NONE
 hi LineNr guifg=#7b8482 guibg=#202422 guisp=#202422 gui=NONE ctermfg=66 ctermbg=NONE cterm=NONE
+hi SignColumn guifg=#7b8482 guibg=#202422 guisp=#202422 gui=NONE ctermfg=66 ctermbg=NONE cterm=NONE
 hi StatusLine guifg=#0f1110 guibg=#b5bebd guisp=#b5bebd gui=NONE ctermfg=233 ctermbg=7 cterm=NONE
 hi Normal guifg=#f2f8f8 guibg=#0f1110 guisp=#0f1110 gui=NONE ctermfg=195 ctermbg=233 cterm=NONE
 hi Label guifg=#DC1C67 guibg=#1a030c guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
