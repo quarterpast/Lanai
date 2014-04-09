@@ -41,7 +41,7 @@ hi StatusLine guifg=#0f1110 guibg=#b5bebd guisp=#b5bebd gui=NONE ctermfg=233 cte
 hi Normal guifg=#f2f8f8 guibg=#0f1110 guisp=#0f1110 gui=NONE ctermfg=195 ctermbg=233 cterm=NONE
 hi Label guifg=#DC1C67 guibg=#1a030c guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
 "hi CTagsImport -- no settings --
-hi PMenuSel guifg=#192224 guibg=#ff9721 guisp=#ff9721 gui=NONE ctermfg=235 ctermbg=208 cterm=NONE
+hi PMenuSel guifg=#f2f8f8 guibg=#1C77a1 guisp=#1c77a1 gui=NONE ctermfg=235 ctermbg=208 cterm=NONE
 hi Search guifg=#f2f8f8 guibg=#1c77a1 guisp=#1c77a1 gui=NONE ctermfg=195 ctermbg=31 cterm=NONE
 "hi CTagsGlobalVariable -- no settings --
 hi Delimiter guifg=#ff0000 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
