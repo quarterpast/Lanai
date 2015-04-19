@@ -22,7 +22,7 @@ hi      Include              guifg=#ff0000  guibg=NONE                    guisp=
 hi      TabLineSel           guifg=#0f1110  guibg=#b5bebd                 guisp=#b5bebd  gui=NONE              ctermfg=233   ctermbg=7     cterm=NONE
 hi      StatusLineNC         guifg=#0f1110  guibg=#68716f                 guisp=#68716f  gui=NONE              ctermfg=233   ctermbg=242   cterm=NONE
 "hi     CTagsMember          --             no                            settings       --
-hi      NonText              guifg=#5E6C70  guibg=NONE                    guisp=NONE     gui=italic            ctermfg=66    ctermbg=NONE  cterm=NONE
+hi      NonText              guifg=#151617  guibg=NONE                    guisp=NONE     gui=italic            ctermfg=66    ctermbg=NONE  cterm=NONE
 "hi     CTagsGlobalConstant  --             no                            settings       --
 hi      DiffText             guifg=#f2f8f8  guibg=#1c77a1                 guisp=#1c77a1  gui=NONE              ctermfg=195   ctermbg=31    cterm=NONE
 hi      ErrorMsg             guifg=#f2f8f8  guibg=#a80043                 guisp=#a80043  gui=NONE              ctermfg=195   ctermbg=125   cterm=NONE
@@ -60,7 +60,7 @@ hi      CursorLine           guifg=NONE     guibg=#222E30                 guisp=
 "hi     Union                --             no                            settings       --
 hi      TabLineFill          guifg=#192224  guibg=#5E6C70                 guisp=#5E6C70  gui=bold              ctermfg=235   ctermbg=66    cterm=bold
 "hi     Question             --             no                            settings       --
-hi      WarningMsg           guifg=#A1A6A8  guibg=#912C00                 guisp=#912C00  gui=NONE              ctermfg=248   ctermbg=88    cterm=NONE
+hi      WarningMsg           guifg=#443300  guibg=#EEDD66                 guisp=#EEDD66  gui=NONE              ctermfg=248   ctermbg=88    cterm=NONE
 hi      VisualNOS            guifg=#192224  guibg=#F9F9FF                 guisp=#F9F9FF  gui=underline         ctermfg=235   ctermbg=189   cterm=underline
 hi      DiffDelete           guifg=#f2f8f8  guibg=#a80043                 guisp=#a80043  gui=NONE              ctermfg=195   ctermbg=125   cterm=NONE
 hi      ModeMsg              guifg=#F9F9F9  guibg=#192224                 guisp=#192224  gui=bold              ctermfg=15    ctermbg=235   cterm=bold
@@ -80,7 +80,7 @@ hi      Type                 guifg=#269acc  guibg=#05131a                 guisp=
 hi      DiffChange           guifg=#f2f8f8  guibg=#2f4651                 guisp=#2f4651  gui=NONE              ctermfg=195   ctermbg=239   cterm=NONE
 hi      Cursor               guifg=#192224  guibg=#F9F9F9                 guisp=#F9F9F9  gui=NONE              ctermfg=235   ctermbg=15    cterm=NONE
 hi      SpellLocal           guifg=#F9F9FF  guibg=#192224                 guisp=#192224  gui=underline         ctermfg=189   ctermbg=235   cterm=underline
-hi      Error                guifg=#A1A6A8  guibg=#912C00                 guisp=#912C00  gui=NONE              ctermfg=248   ctermbg=88    cterm=NONE
+hi      Error                guifg=#F9F9FF  guibg=#dc1c65                 guisp=#dc1c65  gui=NONE              ctermfg=248   ctermbg=88    cterm=NONE
 hi      PMenu                guifg=#192224  guibg=#5E6C70                 guisp=#5E6C70  gui=NONE              ctermfg=235   ctermbg=66    cterm=NONE
 hi      SpecialKey           guifg=#5E6C70  guibg=NONE                    guisp=NONE     gui=italic            ctermfg=66    ctermbg=NONE  cterm=NONE
 hi      Constant             guifg=#c09bff  guibg=#13101a                 guisp=#13101a  gui=NONE              ctermfg=141   ctermbg=234   cterm=NONE
